@@ -1,6 +1,6 @@
 # Speed Dating Experiment - Data Mining Project
  
-**Authors:** Tomasz Kisielewski, Robert Gosz, Antoni Kiciński
+**Authors:** Tomasz Kisielewski, Robert Gosz, Antoni Kiciński  
 **Dataset:** [Speed Dating Experiment](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment)
  
 ---
