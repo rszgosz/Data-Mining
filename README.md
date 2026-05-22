@@ -23,4 +23,4 @@ The Speed Dating Experiment dataset was collected at Columbia University (2002â€
  
 ## Notebook
  
-The full analysis is available in [`speed_dating_desc_att.ipynb`](speed_dating_desc_att.ipynb).
+The full analysis is available in [`part 1: speed_dating_desc_att.ipynb`](speed_dating_desc_att.ipynb) and [`part 2: speed_dating_desc_att.ipynb`](speed_dating_part2.ipynb).
